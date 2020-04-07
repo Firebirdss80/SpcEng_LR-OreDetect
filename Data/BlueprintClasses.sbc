@@ -1,13 +1,27 @@
 <?xml version="1.0"?>
 <Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-	
+
 	<BlueprintClassEntries>
 		<Entry Class="LargeBlocks" BlueprintSubtypeId="OreDetector/KK4DUY_LR2x_LargeOreDetector" />
 		<Entry Class="LargeBlocks" BlueprintSubtypeId="OreDetector/KK4DUY_LR4x_LargeOreDetector" />
+		<Entry Class="LargeBlocks" BlueprintSubtypeId="OreDetector/KK4DUY_LR6x_LargeOreDetector" />
+		<Entry Class="LargeBlocks" BlueprintSubtypeId="OreDetector/KK4DUY_LR8x_LargeOreDetector" />
+		<Entry Class="LargeBlocks" BlueprintSubtypeId="OreDetector/KK4DUY_LR10x_LargeOreDetector" />
+		<Entry Class="LargeBlocks" BlueprintSubtypeId="OreDetector/KK4DUY_LR12x_LargeOreDetector" />
+		<Entry Class="LargeBlocks" BlueprintSubtypeId="OreDetector/KK4DUY_LR14x_LargeOreDetector" />
+		<Entry Class="LargeBlocks" BlueprintSubtypeId="OreDetector/KK4DUY_LR16x_LargeOreDetector" />
+		<Entry Class="LargeBlocks" BlueprintSubtypeId="OreDetector/KK4DUY_LR18x_LargeOreDetector" />
 		<Entry Class="LargeBlocks" BlueprintSubtypeId="OreDetector/KK4DUY_LR8x_LargeOreDetector" />
 		<Entry Class="SmallBlocks" BlueprintSubtypeId="OreDetector/KK4DUY_LR2x_SmallBlockOreDetector" />
 		<Entry Class="SmallBlocks" BlueprintSubtypeId="OreDetector/KK4DUY_LR4x_SmallBlockOreDetector" />
+		<Entry Class="SmallBlocks" BlueprintSubtypeId="OreDetector/KK4DUY_LR6x_SmallBlockOreDetector" />
 		<Entry Class="SmallBlocks" BlueprintSubtypeId="OreDetector/KK4DUY_LR8x_SmallBlockOreDetector" />
+		<Entry Class="SmallBlocks" BlueprintSubtypeId="OreDetector/KK4DUY_LR10x_SmallBlockOreDetector" />
+		<Entry Class="SmallBlocks" BlueprintSubtypeId="OreDetector/KK4DUY_LR12x_SmallBlockOreDetector" />
+		<Entry Class="SmallBlocks" BlueprintSubtypeId="OreDetector/KK4DUY_LR14x_SmallBlockOreDetector" />
+		<Entry Class="SmallBlocks" BlueprintSubtypeId="OreDetector/KK4DUY_LR16x_SmallBlockOreDetector" />
+		<Entry Class="SmallBlocks" BlueprintSubtypeId="OreDetector/KK4DUY_LR18x_SmallBlockOreDetector" />
+		<Entry Class="SmallBlocks" BlueprintSubtypeId="OreDetector/KK4DUY_LR20x_SmallBlockOreDetector" />
 	</BlueprintClassEntries>
-	
+
 </Definitions>
